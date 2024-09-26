@@ -1,0 +1,9 @@
+venv
+config.py
+prodActiveProducts.txt
+sitemap.xml
+stageActiveProducts.txt
+nomatch.txt
+match.txt
+outputtest.txt
+.DS_Store
