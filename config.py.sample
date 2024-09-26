@@ -1,0 +1,2 @@
+SITEMAPURL="{url to sitemap.xml}"
+COMPAREFILE="{filename of expected sitemap urls file}"
