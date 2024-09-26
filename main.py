@@ -1,6 +1,6 @@
 import requests
 import xml.etree.ElementTree as ET
-import config
+from config import *
 
 def loadSitemap():
     resp = requests.get(SITEMAPURL)
